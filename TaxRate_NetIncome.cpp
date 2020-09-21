@@ -40,7 +40,7 @@ int main()
     cout<<"Do You Want To Check Again?(Y/N): ";
     cin>>ch;
 
-    }while (ch=='y' || ch=='Y');
+    }while (ch=='Y' || ch=='y');
 
     return 0;
 }
